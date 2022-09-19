@@ -1,5 +1,6 @@
 <h1> Me chamo Fábio Couto </h1>
-
+<p> To estudando programação para me tornar um Full Stack </p>
+<h3>Até agora eu sei usar essas tecnologias</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="sal-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="sal-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -16,6 +17,8 @@
   
   
   ![Snake animation](https://github.com/ookamimidori/ookamimidori/blob/output/github-contribution-grid-snake.svg)
+  
+  <h4>Contatos aqui em baixo!</h4>
 
 <div> 
   <a href="https://www.linkedin.com/in/fabio-couto-638979210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
