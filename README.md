@@ -1,5 +1,5 @@
 <h1> Me chamo Fábio Couto </h1>
-<p> To estudando programação para me tornar um Full Stack </p>
+<p> Sou um desenvolvedor Fullstack </p>
 <h3>Até agora eu sei usar essas tecnologias</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="sal-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
